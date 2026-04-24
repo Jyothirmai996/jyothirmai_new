@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jyothirmai</h1>
-<h3 align="center">A passionate frontend developer and data analyst Developer</h3>
+<h3 align="center">A passionate data analyst Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothirmai996&label=Profile%20views&color=0e75b6&style=flat" alt="jyothirmai996" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Global Olympics Dataset Diagnosis](https://github.com/Jyothirmai996/phish-Catcher)
 
-- 🌱 I’m currently learning **ReactJS,Web Development**
+- 🌱 I’m currently learning **Web Development and ML**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1frDDuhTZER3DSGFRZHofyEvEjKM26_Do](https://drive.google.com/drive/folders/1frDDuhTZER3DSGFRZHofyEvEjKM26_Do)
 

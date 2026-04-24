@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyothirmai996" alt="jyothirmai996" /></a> </p>
 
-- 🔭 I’m currently working on [Global Olympics Dataset Diagnosis](https://github.com/Jyothirmai996/phish-Catcher)
+- 🔭 I’m currently working on [Zomoto analysis Dashboard](https://github.com/Jyothirmai996/Global-Olympics-Data-Analysis)
 
 - 🌱 I’m currently learning **Web Development and ML**
 
